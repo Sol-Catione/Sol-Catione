@@ -7,7 +7,7 @@
 - 💡 Apaixonada por lógica de programação e automação de processos.
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, JavaScript
+- **Linguagens:** Python
 - **Web:** HTML5, CSS3
 - **Ferramentas:** Git, GitHub, VS Code, Excel Avançado
 
