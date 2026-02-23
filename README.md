@@ -13,7 +13,7 @@
 
 ### 📁 Projetos em Destaque
 - **[Ilumina-Med](https://github.com/Sol-Catione/Ilumina-Med):** Plataforma web para gestão de clínicas (Em desenvolvimento).
-- **[Terminal-Macro-TIC](https://github.com/Sol-Catione/Terminal-Macro-TIC):** Projeto focado em automação e lógica com Python.
+- **[Terminal-Macro-TIC](https://github.com/Sol-Catione/Terminal-Macro-TIC):** Projeto focado em automação e lógica com Python (Em desenvolvimento).
 
 ---
 
