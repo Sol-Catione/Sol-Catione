@@ -19,3 +19,4 @@
 
 📫 **Como me encontrar:**
 [LinkedIn](https://www.linkedin.com/in/solange-catione-925a8a345/) | [E-mail](mailto:SOLANGE.DREAM@HOTMAIL.COM)
+
